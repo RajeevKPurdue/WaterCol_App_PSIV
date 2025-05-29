@@ -61,3 +61,22 @@ This is a desktop application for processing, interpolating, and visualizing wat
 - Linux (most modern distributions)
 - 4GB RAM minimum (8GB recommended)
 - 500MB free disk space
+
+## Attribution
+
+## Citation
+
+If you use this software in your research, please cite:
+
+[Your Name]. (Year). [Repository Name]. GitHub. https://github.com/username/repo-name
+
+Or in academic format:
+Author, A. (2025). Project Title. Software. GitHub repository. https://github.com/username/repo
+
+## License
+
+This project is licensed under the [Apache License 2.0](LICENSE) - see the LICENSE file for details.
+
+## Acknowledgments
+
+If you use this code in published work, please acknowledge its use and consider citing any relevant publications.
