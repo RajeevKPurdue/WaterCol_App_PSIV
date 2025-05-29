@@ -62,21 +62,19 @@ This is a desktop application for processing, interpolating, and visualizing wat
 - 4GB RAM minimum (8GB recommended)
 - 500MB free disk space
 
-## Attribution
-
 ## Citation
-
 If you use this software in your research, please cite:
 
-[Your Name]. (Year). [Repository Name]. GitHub. https://github.com/username/repo-name
+Kumar, R. (2025). WaterCol_App_PSIV: Application to Process, Summarize, Interpolate, and Visualize water column sensor data. GitHub. https://github.com/RajeevKPurdue/WaterCol_App_PSIV
 
 Or in academic format:
-Author, A. (2025). Project Title. Software. GitHub repository. https://github.com/username/repo
+Kumar, R. (2025). WaterCol_App_PSIV: Application to Process, Summarize, Interpolate, and Visualize water column sensor data. Software. GitHub repository. https://github.com/RajeevKPurdue/WaterCol_App_PSIV
 
 ## License
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
 
-This project is licensed under the [MIT](LICENSE) - see the LICENSE file for details.
-
+## Acknowledgments
+If you use this code in published work, please acknowledge its use and cite any relevant publications.
 ## Acknowledgments
 
 If you use this code in published work, please acknowledge its use and cite any relevant publications.
